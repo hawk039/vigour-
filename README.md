@@ -59,8 +59,10 @@ Hello
 Brewapps Recruitment team,
 I wanted to share a quick note to provide some context around my submission.
 The reset password flow and the “quote of the day” notification feature are partially implemented. Due to interview timelines and limited available time, 
-I focused on completing the core architecture and primary user flows first, while leaving these two features in a half-complete state rather than rushing an unreliable implementation.
-Regarding the app demo video, I wasn’t able to include it in the Loom recordings. My MacBook Pro has been facing system and memory limitations, which made screen recording unstable while running the app and backend services simultaneously.
+I focused on completing the core architecture and primary user flows first, while leaving these two features in a half-complete state rather than rushing an unreliable 
+implementation.
+Regarding the app demo video, I wasn’t able to include it in the Loom recordings. My MacBook Pro has been facing system and memory limitations, which made screen recording unstable while running the app and backend services simultaneously.but below is mentioned  the link to the android build that you can download and check.
+Android App link: https://ioair.link/q3gjuf
 That said, I’d like to highlight one important aspect of my workflow:
 I actively and effectively use AI as a productivity multiplier across both frontend and backend development. This includes API design, data modeling, edge-case handling, and iterative refinement rather than one-shot generation.
 You can review my Python & FastAPI backend work, including AI-integrated logic, at the following link:
